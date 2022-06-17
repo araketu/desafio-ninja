@@ -47,16 +47,5 @@ Step 4
 
 # Informações adicionais
 
-- Ruby versão 3.0.0, RoR versão 6.1.4, PostgreSQL versão 12.9
+- Ruby versão 3.0.0, Rails versão 6.1.4
 
-- Estatísticas sobre a cobertura dos testes (SimpleCov Gem)
-
-<div align="center">
-  <image align="center" src=".github/images/code-coverage.png" width="800px">
-</div>
-
-<div align="center">
-  <sub>Construído por
-    <a href="https://github.com/AlexandreL0pes">Alexandre Lopes</a>
-  </sub>
-</div>
